@@ -1,0 +1,32 @@
+# YAML - 3
+# We have updated the food.yml file with nutrition information for Fruits. Similarly update the nutrition information for Vegetables. Use the below table for information
+
+
+
+Fruits:
+  - Apple:
+        Calories: 95
+        Fat: 0.3
+        Carbs: 25
+  - Banana:
+      Calories: 105
+      Fat: 0.4
+      Carbs: 27
+  - Orange:
+        Calories: 45
+        Fat: 0.1
+        Carbs: 11
+        
+Vegetables:
+  - Carrot:
+      Calories: 25
+      Fat: 0.1
+      Carbs: 6
+  - Tomato:
+      Calories: 22
+      Fat: 0.2
+      Carbs: 4.8
+  - Cucumber:
+      Calories: 8
+      Fat: 0.1
+      Carbs: 1.9
